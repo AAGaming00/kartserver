@@ -1,0 +1,1 @@
+worker: srb2kart -dedicated -room 28
