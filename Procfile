@@ -1,1 +1,1 @@
-worker: srb2kart -dedicated -room 28
+worker: srb2kart_1.0.2 -dedicated -room 28
