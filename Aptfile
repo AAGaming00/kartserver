@@ -2,4 +2,6 @@ libsdl2-2.0-0
 libsdl2-mixer-2.0-0
 libgme0
 libpulse0
+libpulse-mainloop-glib0
+libpulsedsp
 https://launchpad.net/~wolfy852/+archive/ubuntu/kart-public/+files/srb2kart_1.0.2~18.10cosmic-20190120073949_amd64.deb
