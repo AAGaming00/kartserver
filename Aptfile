@@ -4,4 +4,5 @@ libgme0
 libpulse0
 pulseaudio
 libpulse-dev
+libpulse-mainloop-glib0
 https://launchpad.net/~wolfy852/+archive/ubuntu/kart-public/+files/srb2kart_1.0.2~18.10cosmic-20190120073949_amd64.deb
